@@ -15,11 +15,13 @@ instructions below.
 0. There is no sign-up sheet for this event.
 
 1. In order to sign-up you must fork this repository to your 
-   account on GitHub.
-
-2. Using your choice of Git utility (GitHub for Windows or Mac are 
-   recommended for beginners), clone the forked repository to your 
-   desktop.
+   account on GitHub. See https://help.github.com/articles/using-pull-requests/#fork--pull
+   for more info about the "Fork & Pull" collaborative model.
+   
+2. Using your choice of Git utility (GitHub for Windows or Mac 
+   are recommended for beginners)(https://windows.github.com or 
+   https://mac.github.com/), clone the forked repository to your 
+   desktop using the "Clone in Desktop" button on GitHub.
 
 2. Create a .txt file in the /collaborators directory of the 
    repository.
@@ -36,11 +38,15 @@ instructions below.
 6. Push the repository on your desktop back up to your Github 
    account (use Sync feature in Github for Windows or Mac).
 
-7. Create a pull request once your changes are on GitHub.
+7. Create a pull request on GitHub once your changes are on GitHub.
+   See https://help.github.com/articles/creating-a-pull-request/ and
+   https://help.github.com/articles/using-pull-requests/ for more info.
 
 --------------------------------------------------------------------------
-*Seriously folks, write "I want to learn how to better collaborate with others using Git" if you can't think of anything else to write.
+*Seriously folks, write "I want to learn how to better collaborate with 
+others using Git" if you can't think of anything else to write. That is 
+what you're trying to accomplish right?
 
-If you have any questions, please e-mail me: j-grajales@neiu.edu
+If you have any questions, please e-mail Jeremy: j-grajales@neiu.edu
 
 --------------------------------------------------------------------------
